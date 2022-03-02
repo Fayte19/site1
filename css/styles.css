@@ -1,8 +1,11 @@
 body {
 
   background-image: url(Background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
   background-color: #271F30;
 }
+
 
 h1 {
   color: white;
