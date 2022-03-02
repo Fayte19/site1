@@ -1,0 +1,75 @@
+body {
+
+  background-image: url(Background.jpg);
+  background-color: #271F30;
+}
+
+h1 {
+  color: white;
+  font-family: Courier, monospace;
+  font-style: oblique;
+}
+
+td {
+  color: white;
+}
+
+p {
+  color: #FC9E4F;
+  font-family: Courier, monospace;
+  font-style: oblique;
+}
+
+li {
+  color: white;
+  font-family: sans-serif;
+}
+
+h3 {
+  color: white;
+  font-family: Courier, monospace;
+  font-style: oblique;
+}
+
+a {
+  padding: 3px 2px 0;
+}
+
+a:link {
+  color: #F4442E;
+}
+
+a:visited {
+  color: #FC9E4F;
+}
+
+a:focus {
+  color: #60594D;
+  border-bottom: 2px dotted;
+}
+
+a:hover {
+  color: #60594D;
+  border-bottom: 2px dotted;
+}
+
+a:active {
+  color: #55DDE0;
+  border-bottom: 2px dotted;
+}
+
+hr {
+  border-style: none;
+  border-color: #FC9E4F;
+}
+
+label {
+  color: white;
+  font-family: sans-serif;
+}
+
+.profilepic {
+
+  border-radius: 50%;
+
+}
